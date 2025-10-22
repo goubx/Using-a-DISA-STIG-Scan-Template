@@ -6,13 +6,13 @@ I will demonstrate how to set up and use a DISA STIG scan template with vulnerab
 <br />
 
 - <b> Azure </b>
-- <b> Windows 10 Pro VM </b> 
+- <b> Windows 11 Pro VM </b> 
 - <b> Tenable.IO </b>
 
 <h2>Walkthrough</h2>
 
 <p align="center">
-After creating my virtual machine on Azure, I will now begin the walkthrough on using scan templates to scan a Windows 10 VM.
+After creating my virtual machine on Azure, I will now begin the walkthrough on using scan templates to scan a Windows 11 VM.
 
 <h2> 1. First, I will log onto the VM and disable the firewall. </h2>
 
